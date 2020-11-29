@@ -1,6 +1,7 @@
 # Miners_Tracking_Helmet
 ## Technologies 
 * Arduino
+* Processing
 * NRF24 Transceiver 
 * QC 5883 compass sensor
 
