@@ -6,8 +6,7 @@
 * QC 5883 compass sensor
 
 ## Project Description 
-This is a helmet for Monitor miners activities and environment condition </br>
-Complete source code available in final Compass folder 
+This is a helmet for Monitor miners activities and environment condition </br> 
 
 ## Sourse Folders
 * Smart Helmet transmitter ->  Miners helmet source code </br> 
